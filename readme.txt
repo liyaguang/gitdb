@@ -1,2 +1,3 @@
-This is the readme file for this git project.
-
+Git is a free software.
+Add this line.
+This is a lot of fine in computer scicence.
